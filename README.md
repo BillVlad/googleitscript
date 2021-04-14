@@ -5,3 +5,5 @@
 
 Установка:
 `sudo cp googleit /usr/bin` или `sudo cp googleit /bin`
+
+# Скрипт заброшен. Он не работает с последними версиями bash.
